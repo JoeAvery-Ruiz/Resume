@@ -1,0 +1,8 @@
+let resume = {
+    "name":"JoeAvery Ruiz",
+    "linkedin": "https://www.linkedin.com/in/joe-avery-ruiz-a9a22020b",
+    "github": "https://github.com/JoeAvery-Ruiz",
+    "Email":"joeavery96@yahoo.com",
+    "proficientTechnologies":["javascript","node",],
+    
+}
